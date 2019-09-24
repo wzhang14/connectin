@@ -1,3 +1,6 @@
 {
-  "mongoURI" : "mongodb+srv://wei:TerrySam5@connectin-3iiv1.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://wei:TerrySam5@connectin-3iiv1.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrete",
+  "githubClientId": "3e60a92332fe9266a7dc",
+  "githubSecret": "3824dd0ea35cf663f2dbef2ac4b4ef16f6ecec8c"
 }
